@@ -1,0 +1,14 @@
+* {
+    font-family: cursive;
+}
+
+h1 {
+    color: rgb(255, 255, 87);
+    background-color: #abffe3;
+    text-align: center;
+    font-size: 35px
+}
+
+ul {
+    background-color: hsl(0, 100%, 80%);
+}
